@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayshwii!
 - 👀 I’m interested in web app development
-- 🌱 I’m currently learning html and javascript
+- 🌱 I’m currently learning to build apps with React
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: kayshwii@icloud.com
 
